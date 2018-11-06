@@ -2,7 +2,7 @@
 layout: post
 title: "林灿复仇记-2"
 description: another new chapter.
-category: novels
+category: '林灿复仇记'
 tags: writer, novel
 ---
 

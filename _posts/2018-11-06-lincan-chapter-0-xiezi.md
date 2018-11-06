@@ -2,7 +2,7 @@
 layout: post
 title: "林灿复仇记-楔子"
 description: another new chapter.
-category: novels
+category: '林灿复仇记'
 tags: writer, novel
 ---
 
