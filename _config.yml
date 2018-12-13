@@ -3,4 +3,4 @@ description: 由着性子，随便写写，胡乱扯扯。
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-midnight
-gems: [jekyll-paginate, jekyll-sitemap,jekyll-admin]
+plugins: [jekyll-paginate, jekyll-sitemap]
